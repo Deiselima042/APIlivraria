@@ -1,6 +1,6 @@
 # <h1>**API-livraria-cliente**:books:</h1>
 
-Projeto de encerramento do módulo 4 da Resilia Educação.
+Projeto de encerramento do módulo 5 da Resilia Educação.
 <br />
 O projeto consiste no desenvolvimento de uma API para livraria, que possui todas as rotas básicas do CRUD. <br />
 As condições principais para a entrega do projeto foram:
@@ -21,7 +21,7 @@ As condições principais para a entrega do projeto foram:
 <li>Clone este repositório em sua máquina:
   
   ~~~~javascript
-  $ git clone https://github.com/priscilarossetto/API-livraria-cliente.git
+  $ git clone https://github.com/Deiselima042/ApiLivraria.git
   ~~~~
 
 <li>Será necessário instalar as dependências do projeto. Abra o terminal dentro da pasta do projeto e execute o seguinte:
